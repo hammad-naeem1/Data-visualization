@@ -21,3 +21,11 @@ A structured repository documenting exploratory data analysis (EDA) techniques, 
 * **Seaborn** — High-level statistical data visualization
 * **Pandas & NumPy** — Data cleaning, aggregation, and numerical preparation
 * **Jupyter Notebook** — Interactive analysis and visual documentation
+
+* 📂 Repository Structure
+Plaintext
+├── datasets/       # Sample CSV/JSON datasets used for practice
+├── notebooks/      # Step-by-step EDA and visualization notebooks
+├── scripts/        # Standalone Python scripts for reusable plots
+├── exports/        # High-resolution saved charts (.png / .svg)
+└── README.md
